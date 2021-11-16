@@ -1,5 +1,3 @@
-<h3 align="center">A developer from Shanghai, China.</h3>
-
 
 <p class="rich-diff-level-zero" align="center">
   <a href="https://github-readme-streak-stats.herokuapp.com/?user=ponytailer&theme=dark" rel="nofollow" class="rech-diff-level-one">
