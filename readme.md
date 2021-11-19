@@ -6,7 +6,7 @@
  </p>
 
 <p align="center">
-  <a href="https://github-readme-stats.vercel.app/api?username=ponytailer&count_private=true&show_icons=true&include_all_commits=true">
-    <img src="http://github-readme-stats.vercel.app/api?username=ponytailer&count_private=true&show_icons=true&include_all_commits=true" />
+  <a href="https://github-readme-stats.vercel.app/api?username=ponytailer&count_private=true&show_icons=true&include_all_commits=false">
+    <img src="http://github-readme-stats.vercel.app/api?username=ponytailer&count_private=true&show_icons=true&include_all_commits=false" />
   </a>
 </p>
